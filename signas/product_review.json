@@ -1,0 +1,46 @@
+{
+	"blocks": [
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "How do you feel about the Product?"
+			}
+		},
+		{
+			"type": "actions",
+			"elements": [
+				{
+					"type": "button",
+					"text": {
+						"type": "plain_text",
+						"text": "Fascinated :star2:",
+						"emoji": true
+					},
+					"value": "click_me_123",
+					"action_id": "actionId-0"
+				},
+				{
+					"type": "button",
+					"text": {
+						"type": "plain_text",
+						"text": "Cool :slightly_smiling_face:",
+						"emoji": true
+					},
+					"value": "click_me_123",
+					"action_id": "actionId-1"
+				},
+				{
+					"type": "button",
+					"text": {
+						"type": "plain_text",
+						"text": "Mmmm :thumbsdown:",
+						"emoji": true
+					},
+					"value": "click_me_123",
+					"action_id": "actionId-2"
+				}
+			]
+		}
+	]
+}
