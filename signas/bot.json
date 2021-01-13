@@ -1,0 +1,6 @@
+{
+"Questions":["How did you feel about today’s meeting","on a scale from 1-10, How do you rate the meeting effectiveness?","do you feel like you know what to do until the next meeting?"],
+"AnswersA":["excited","cool","bad"],
+"AnswersB":[1,2,3,4,5,6,7,8,9,10],
+"AnswersC":["yes","no"]
+}
