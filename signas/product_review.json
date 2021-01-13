@@ -14,7 +14,7 @@
 					"type": "button",
 					"text": {
 						"type": "plain_text",
-						"text": "Fascinated :star2:",
+						"text": "Excited :star2:",
 						"emoji": true
 					},
 					"value": "click_me_123",
